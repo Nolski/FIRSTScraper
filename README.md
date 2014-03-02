@@ -1,4 +1,4 @@
-Wasapi Scraper Thing
+Wasapi FIRSTScraper
 ====================
 
 Install
