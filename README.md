@@ -3,8 +3,8 @@ Wasapi Scraper Thing
 
 Install
 -------
-`npm install cheerio`
+`npm install`
 
-`node scraper.js`
+`node scraper.js` :punch:
 
 wooo
