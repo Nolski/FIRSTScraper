@@ -1,0 +1,28 @@
+{
+    "name": "FirstScraper",
+    "version": "0.0.1",
+    "description": "",
+    "main": "",
+    "dependencies": {
+        "cheerio" : "*"
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+    },
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nolski/FirstScraper"
+    },
+    "bugs": {
+        "url": "https://github.com/Nolski/FirstScraper/issues"
+    },
+    "author": {
+        "name": "Mike Nolan",
+        "email": ""
+    },
+    "license": "DGAF"
+}
